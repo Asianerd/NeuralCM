@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/GithubRepos/NeuralCM/Content/blank.png","D:/GithubRepos/NeuralCM/Content/bin/Windows/blank.xnb","TextureProcessor","Texture2DContent",81,89,0.1631891
+"D:/GithubRepos/NeuralCM/Content/font.spritefont","D:/GithubRepos/NeuralCM/Content/bin/Windows/font.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21538,0.3126366
+"D:/GithubRepos/NeuralCM/Content/mono_font.spritefont","D:/GithubRepos/NeuralCM/Content/bin/Windows/mono_font.xnb","FontDescriptionProcessor","SpriteFontContent",2019,70690,0.6477455
